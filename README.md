@@ -1,5 +1,7 @@
 # Coders Forum
 
+<img title="Club Logo" alt="</club-logo.png>" src="/club-logo.png">
+
 ### Hi there 👋
 
 <!--
