@@ -8,13 +8,13 @@
 
 ### Hi there, Coders! 👋
 
-This is a ==Club== for students for those who are interested in
-==Programming== and have a thirst towards learning ==Technical==
-concepts. This club works on weekly meets on ==AV Hall== for
-discussion and a Coding ==Contest== every month. This club works
-on ==zero-budget== for conducting all the technical events.
-Instead of Trophies and Printed Certificates, an ==honorary note==
-on the ==Club Website== and E-Certificate will be provided.
+This is a **Club** for students for those who are interested in
+**Programming** and have a thirst towards learning **Technical**
+concepts. This club works on weekly meets on **AV Hall** for
+discussion and a Coding **Contest** every month. This club works
+on **zero-budget** for conducting all the technical events.
+Instead of Trophies and Printed Certificates, an **honorary note**
+on the **Club Website** and E-Certificate will be provided.
 
 ---
 
@@ -29,17 +29,17 @@ conducted, for both Club members and non-Club members too.
 
 ## Opportunities
 
-- [x] Get to know about various ==technical sources== like GitHub,
+- [x] Get to know about various **technical sources** like GitHub,
 HackerRank, LeetCode, etc.
-- [x] Get ==Contacts== and ==connect== with others (including Seniors)
-and to get ==help== for their Personal Projects.
-- [x] Club members can ==discuss== about what they are ==currently
-learning== and ==Project== they are working on for an ==Exposure== for
+- [x] Get **Contacts** and **connect** with others (including Seniors)
+and to get **help** for their Personal Projects.
+- [x] Club members can **discuss** about what they are **currently
+learning** and **Project** they are working on for an **Exposure** for
 others.
-- [x] ==Hone skills== with the help of monthly Contests.
-- [x] Discuss about ==current Trends== and ==Technical News== to stay
-==updated==.
-- [x] ==Overcome ‘Stage-Fear’== and ==develop Inter-Personal skills==.
+- [x] **Hone skills** with the help of monthly Contests.
+- [x] Discuss about **current Trends** and **Technical News** to stay
+**updated**.
+- [x] **Overcome ‘Stage-Fear’** and **develop Inter-Personal skills**.
 
 ---
 
