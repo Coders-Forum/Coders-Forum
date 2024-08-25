@@ -45,6 +45,23 @@ others.
 
 ## Our Team
 
+1. **Mohamed Jasim M**
+mohmedjasim2005@gmail.com
+2. **Johith Raj S S**
+johithraj18@gmail.com
+3. **Emmanuel Prithish S**
+prithish.9025@gmail.com
+4. **Madhumitha V**
+madhumithavelusamy1@gmail.com
+5. **Shruti S**
+shruti.sundar0405@gmail.com
+6. **Aalia Fathima W**
+madhumithavelusamy1@gmail.com
+
+
+
+## Initiators
+
 1. **Madhavakumar D**
 madhavakumar21@outlook.com
 2. **Rishab H**
