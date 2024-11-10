@@ -56,7 +56,8 @@ madhumithavelusamy1@gmail.com
 5. **Shruti S**
 shruti.sundar0405@gmail.com
 6. **Aalia Fathima W**
-madhumithavelusamy1@gmail.com
+211422104005.cse@gmail.com
+
 
 
 
